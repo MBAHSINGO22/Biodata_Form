@@ -60,9 +60,6 @@ Tampilan di Browser:
   - Income:
     - [ ] under $50k
   - Tombol: [Validate]
-- Gambar:
-  <img src="decul.png" alt="Barcelona">
-
 ---
 
 ## 👨‍💻 Pengembang
