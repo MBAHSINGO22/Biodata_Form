@@ -1,7 +1,7 @@
-# 📝 Biodata_Form
+# 📝 Biodata Form
 
 **Formulir Biodata Sederhana dengan HTML**  
-Proyek sederhana untuk membuat formulir biodata dasar menggunakan HTML, lengkap dengan input untuk nama, kata sandi, jenis kelamin, status pernikahan, hobi, dan pendapatan.
+Project untuk membuat formulir biodata dasar menggunakan HTML, lengkap dengan input untuk nama, kata sandi, jenis kelamin, status pernikahan, hobi, dan pendapatan.
 
 ---
 
@@ -13,7 +13,7 @@ Proyek sederhana untuk membuat formulir biodata dasar menggunakan HTML, lengkap 
 - 🔍 **Desain Dasar**: Menggunakan struktur HTML dasar dengan elemen formulir dan opsi pilihan.
 - 🖼️ **Visualisasi**: Dilengkapi dengan gambar `decul.png` untuk memperkaya tampilan.
 
-Proyek ini terdiri dari file HTML (`index.html`) dan gambar (`decul.png`). Cocok untuk pemula yang ingin mempelajari pembuatan formulir web sederhana. 🟢
+Proyek ini terdiri dari file HTML (`index.html`) dan gambar (`decul.png`).🟢
 
 ---
 
@@ -29,29 +29,7 @@ Proyek ini terdiri dari file HTML (`index.html`) dan gambar (`decul.png`). Cocok
 Biodata_Form/
 ├── index.html                    # 📝 File HTML untuk formulir biodata
 ├── decul.png                     # 🖼️ Gambar untuk memperkaya tampilan
-├── README.md                     # 📖 Dokumentasi proyek
 ```
-
----
-
-## ▶️ Menjalankan Program
-
-### 1. Kloning Repositori:
-
-```bash
-git clone https://github.com/MBAHSINGO22/Biodata_Form.git
-cd Biodata_Form
-```
-
-### 2. Buka File HTML:
-
-Buka `index.html` di browser favorit Anda (misalnya, Chrome, Firefox) dengan mengklik dua kali file tersebut atau menggunakan perintah:
-
-```bash
-open index.html
-```
-
-Pastikan file `decul.png` berada di direktori yang sama untuk tampilan yang lengkap (jika digunakan dalam HTML).
 
 ---
 
@@ -82,7 +60,8 @@ Tampilan di Browser:
   - Income:
     - [ ] under $50k
   - Tombol: [Validate]
-- Gambar: **decul.png** (jika dirujuk dalam HTML)
+- Gambar:
+  <img src="decul.png" alt="Barcelona">
 
 ---
 
