@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body {
+        background-image: url('decul.png');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+    }
+
+    table {
+        background-color: rgb(255, 255, 255, 0.6);
+    }
+</style>
+<head>
+    <title>HTML Pertama</title>
+</head>
+
+<body>
+    <table border cellpadding="6" align="center">
+        <tr>
+            <td>
+                <h1 align="center"><b>BIODATA</b></h1>
+                <hr>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Name:
+                <input type="text" name="name">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Password:
+                <input type="password" password="password">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Sex:
+                <input type="radio" id="male" name="sex" value="M">
+                <label for="male">M</label>
+                <input type="radio" id="female" name="sex" value="F">
+                <label for="female">F</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <i>Marital Status:</i>
+                <input type="radio" id="married" name="Marital Status" value="Married">
+                <label for="married">Married</label>
+                <input type="radio" id="children" name="Marital Status" value="children">
+                <label for="children">Children</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Hobby:
+                <br>
+                <textarea name="hobby" rows="10" cols="30"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>Income:
+                <select name="income">
+                    <option value="under_50k">under $50k</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <button type="submit">Validate</button>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
